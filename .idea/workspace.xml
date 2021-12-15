@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb6d4f3e-ae4a-44c9-bc69-ddd7a9c90fc4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[06134250C4002282]" />
+  <component name="ProjectId" id="22EV6uG0Nr8uvajgYAil3VIzjFZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Run PhoneGap" type="PhoneGap" factoryName="PhoneGap/Cordova" nameIsGenerated="true">
+      <option name="myExecutable" value="C:\Users\ANGWENYI\AppData\Roaming\npm\cordova.cmd" />
+      <option name="myWorkDir" value="$PROJECT_DIR$" />
+      <option name="myCommand" value="run" />
+      <option name="myPassParent" value="true" />
+      <option name="myPlatform" value="android" />
+      <option name="myExtraArgs" value="" />
+      <option name="hasTarget" value="false" />
+      <option name="target" value="" />
+      <method v="2">
+        <option name="PhonegapTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb6d4f3e-ae4a-44c9-bc69-ddd7a9c90fc4" name="Default Changelist" comment="" />
+      <created>1639402563601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639402563601</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1639403183312">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1639403183312" />
+    <state width="1306" height="189" key="GridCell.Tab.0.bottom" timestamp="1639419936513">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1306" height="189" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1639419936513" />
+    <state width="1306" height="189" key="GridCell.Tab.0.center" timestamp="1639419936513">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1306" height="189" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1639419936513" />
+    <state width="1306" height="189" key="GridCell.Tab.0.left" timestamp="1639419936513">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1306" height="189" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1639419936513" />
+    <state width="1306" height="189" key="GridCell.Tab.0.right" timestamp="1639419936513">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1306" height="189" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1639419936513" />
+  </component>
+</project>
